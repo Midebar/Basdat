@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T12:08:45.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="sUFsJ952LWoqLtAUx03U" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T12:10:14.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="TOeLtBkrlzI-RzZ992Hs" version="16.5.6" type="github">
   <diagram id="yKMGbLoHAGr7PwQgWEhV" name="Page-1">
-    <mxGraphModel dx="1663" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,9 @@
         <mxCell id="2tBgf86yRehmrjki01UI-65" value="Perusahaan" style="whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="960" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2tBgf86yRehmrjki01UI-107" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2tBgf86yRehmrjki01UI-66" target="2tBgf86yRehmrjki01UI-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2tBgf86yRehmrjki01UI-66" value="Film" style="whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="770" width="100" height="40" as="geometry" />
         </mxCell>
@@ -272,6 +275,9 @@
         </mxCell>
         <mxCell id="2tBgf86yRehmrjki01UI-104" value="Durasi" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry y="790" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2tBgf86yRehmrjki01UI-106" value="Genre" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="210" y="700" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
