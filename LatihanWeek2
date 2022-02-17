@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T11:54:35.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="pKG0PB_sTVA7dDESh2QS" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T11:56:22.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_mL0vo5Sxw9gO3C9rr1g" version="16.5.6" type="github">
   <diagram id="yKMGbLoHAGr7PwQgWEhV" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,6 +139,9 @@
         </mxCell>
         <mxCell id="2tBgf86yRehmrjki01UI-52" value="Isi Cuitan" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="200" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2tBgf86yRehmrjki01UI-58" value="4" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;glass=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="680" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
