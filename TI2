@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T12:59:47.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="XBvsWpwPRtIzGGO11HMi" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T13:00:31.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="lN-ZXMjOHUc2KODo8dOU" version="17.1.2" type="github">
   <diagram id="ZiRY5RtmvGYf57vbtLw9" name="Page-1">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="540" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1IKfbH1Fwe-tE2ouweww-8" value="&lt;b&gt;Buku&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="-820" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1IKfbH1Fwe-tE2ouweww-9" value="&lt;b&gt;Daftar_Baca&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="140" width="60" height="30" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="110" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1IKfbH1Fwe-tE2ouweww-24" value="&lt;b&gt;Menulis_Buku&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="25" width="100" height="30" as="geometry" />
+          <mxGeometry x="140" y="40" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1IKfbH1Fwe-tE2ouweww-26" value="&lt;b&gt;Mempunyai_Genre&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="120" height="30" as="geometry" />
