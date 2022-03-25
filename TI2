@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T12:51:22.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="MjQmeMYmr9oSnaB-XXxb" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T12:53:50.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="90pKNjJSGBsAo2GYV7tm" version="17.1.2" type="github">
   <diagram id="ZiRY5RtmvGYf57vbtLw9" name="Page-1">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,10 +68,22 @@
           <mxGeometry x="-820" y="55" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="1IKfbH1Fwe-tE2ouweww-28" value="Nama_Depan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="55" width="80" height="25" as="geometry" />
+          <mxGeometry x="-580" y="55" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="1IKfbH1Fwe-tE2ouweww-29" value="Nama_Belakang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="55" width="100" height="25" as="geometry" />
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-29" value="Domisili" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="55" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-30" value="Nama_Belakang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="55" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-31" value="Tgl_Gabung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="55" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-32" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="55" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-33" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="55" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
