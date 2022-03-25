@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T13:18:48.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="9Xh2__HrY7gewLvT-iGS" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T13:19:10.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="-mPj6nO6rN6CH37lJkc1" version="17.1.2" type="github">
   <diagram id="ZiRY5RtmvGYf57vbtLw9" name="Page-1">
     <mxGraphModel dx="3122" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -293,6 +293,12 @@
         </mxCell>
         <mxCell id="1IKfbH1Fwe-tE2ouweww-91" value="&lt;u&gt;Username_Pembuat&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-740" y="520" width="130" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-93" value="&lt;u&gt;No_Urut&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="830" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-94" value="&lt;span&gt;Nama&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-740" y="830" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
