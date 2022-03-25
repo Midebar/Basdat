@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T13:31:36.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="pOFH0yKVoyypSnOkqqD7" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T13:33:32.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="i1YU91f0lBzxwfjKxR2S" version="17.1.2" type="github">
   <diagram id="ZiRY5RtmvGYf57vbtLw9" name="Page-1">
     <mxGraphModel dx="3373" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1IKfbH1Fwe-tE2ouweww-5" value="&lt;b&gt;Undangan&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="70" width="60" height="30" as="geometry" />
+          <mxGeometry x="-820" y="1120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1IKfbH1Fwe-tE2ouweww-6" value="&lt;b&gt;Ulasan&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-785" y="1110" width="60" height="30" as="geometry" />
+          <mxGeometry x="-185" y="1285" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1IKfbH1Fwe-tE2ouweww-7" value="&lt;b&gt;Komentar_Ulasan&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-825" y="1260" width="130" height="30" as="geometry" />
@@ -403,6 +403,24 @@
         </mxCell>
         <mxCell id="1IKfbH1Fwe-tE2ouweww-117" value="&lt;u&gt;Ulasan_Dikomentari&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="1290" width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-119" value="&lt;u&gt;No_Urut&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="1150" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-120" value="&lt;u&gt;Username_Pengirim&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="1150" width="130" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-121" value="&lt;u&gt;Username_Penerima&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="1150" width="130" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-122" value="&lt;span&gt;Waktu_Dikirim&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1150" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-123" value="&lt;span&gt;Waktu_Dihapus&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1150" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1IKfbH1Fwe-tE2ouweww-124" value="&lt;span&gt;Waktu_Diterima&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1150" width="120" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
