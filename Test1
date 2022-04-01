@@ -1,39 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T03:22:41.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="sX4qDDNB6CCnqlZDu_T3" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T03:40:46.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="E1CT-rTHgm2Ag03x5E66" version="17.2.2" type="github">
   <diagram id="AmypsfSedz45u1CMjSSE" name="Page-1">
-    <mxGraphModel dx="3122" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UQiup74TJzoCPzt4Fr_G-134" value="Person" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1470" y="170" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQiup74TJzoCPzt4Fr_G-135" value="Home_Industry" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="180" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQiup74TJzoCPzt4Fr_G-136" value="Supplier" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1130" y="250" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQiup74TJzoCPzt4Fr_G-137" value="Product_Supplier" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="350" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQiup74TJzoCPzt4Fr_G-138" value="Quality_Control_Officer" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1420" y="340" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQiup74TJzoCPzt4Fr_G-139" value="Product" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="250" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQiup74TJzoCPzt4Fr_G-140" value="Product_Type" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="390" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQiup74TJzoCPzt4Fr_G-141" value="Sales_Promotion_Officer" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1390" y="430" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQiup74TJzoCPzt4Fr_G-142" value="Stock_Control" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1220" y="460" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQiup74TJzoCPzt4Fr_G-143" value="Promotes" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1370" y="500" width="140" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
