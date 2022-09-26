@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T13:20:07.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ttZaaJ31CZk_O4IJxfmI" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T13:20:21.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="K8abDbtydmSdsesjg3SB" version="20.3.3" type="github">
   <diagram id="yGUePve3LyZ9lNP7aoEG" name="Page-1">
-    <mxGraphModel dx="1240" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,22 +14,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-2" value="Data Center Background" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="90" width="130" height="90" as="geometry" />
+          <mxGeometry x="250" y="120" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JGI3EJExkzMw1qFOoNcI-3" target="JGI3EJExkzMw1qFOoNcI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-3" value="Why Need to be Efficient" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="90" width="130" height="90" as="geometry" />
+          <mxGeometry x="590" y="100" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JGI3EJExkzMw1qFOoNcI-4" target="JGI3EJExkzMw1qFOoNcI-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-4" value="How to be Efficient" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="130" height="90" as="geometry" />
+          <mxGeometry x="380" y="330" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-5" value="Why Data Center?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-10" width="130" height="90" as="geometry" />
+          <mxGeometry x="120" y="20" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JGI3EJExkzMw1qFOoNcI-2" target="JGI3EJExkzMw1qFOoNcI-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,16 +41,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-10" value="Hardware-wise" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="470" width="130" height="90" as="geometry" />
+          <mxGeometry x="230" y="420" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-11" value="Software-wise" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="480" width="130" height="90" as="geometry" />
+          <mxGeometry x="510" y="410" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JGI3EJExkzMw1qFOoNcI-14" target="JGI3EJExkzMw1qFOoNcI-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGI3EJExkzMw1qFOoNcI-14" value="What is Data Center" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="190" width="130" height="90" as="geometry" />
+          <mxGeometry x="110" y="240" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
